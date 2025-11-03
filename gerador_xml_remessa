@@ -59,7 +59,7 @@ Todos os arquivos XML gerados deverão seguir o exemplo da estrutura abaixo:
     3.2. Numérico = Inteiros positivos.
     3.3. Data = Data no formato ISO (YYYY-MM-DD).
     3.4. Decimal = Número decimal, sem separador de milhar, com 2 casas decimais e ponto no separador.
-4. Campo cuja descrição define um conjunto de itens, escolha um desses itens.
+4. Campos cuja descrição define um conjunto de itens, escolha um desses itens.
 5. Observe os campos que fazem relação entre leiautes (chaves primárias e estrangeiras) e crie os valores com a referências corretas.
 6. Crie no mínimo 3 registros para cada leiaute.
 
